@@ -1,11 +1,2 @@
-using System;
-
-namespace Introducao
-{
-class MainClass{
-    static void Main(string[] args)
-    {
-        Program.SomarNumeros();
-    }
-}
-}
+// Executar seu primeiro programa!
+Console.WriteLine("Hello World");
