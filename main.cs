@@ -30,3 +30,7 @@ Console.WriteLine($"Meu amigo {firstFriend} e {secondFriend}");
 
 Console.WriteLine($"O nome {firstFriend} contém {firstFriend.Length} letras");
 Console.WriteLine($"O nome {secondFriend} contém {secondFriend.Length} letras");
+
+// Testes demasiados
+
+Console.WriteLine(Friend.ToLower());
