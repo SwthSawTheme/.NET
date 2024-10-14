@@ -59,8 +59,15 @@
 // Console.WriteLine(texto.ToUpper());
 // Console.WriteLine(texto.ToLower());
 
-string letrasMusica = "Teste de caracteres e sons";
-Console.WriteLine(letrasMusica.Contains("Teste"));
-Console.WriteLine(letrasMusica.Contains("teste"));
-Console.WriteLine(letrasMusica.StartsWith("Teste"));
-Console.WriteLine(letrasMusica.EndsWith("sons"));
+// string letrasMusica = "Teste de caracteres e sons";
+// Console.WriteLine(letrasMusica.Contains("Teste"));
+// Console.WriteLine(letrasMusica.Contains("teste"));
+// Console.WriteLine(letrasMusica.StartsWith("Teste"));
+// Console.WriteLine(letrasMusica.EndsWith("sons"));
+
+//Manipular números inteiros e de ponto flutuante
+
+// int a = 22;
+// int b = 45;
+// int c = a + b;
+// Console.WriteLine(c);
