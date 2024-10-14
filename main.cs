@@ -51,3 +51,10 @@
 
 // trimmedGreeting = greeting.Trim();
 // Console.WriteLine($"[{trimmedGreeting}]");
+
+// string texto = "Não mataras";
+// Console.WriteLine(texto);
+// texto = texto.Replace("mataras","faltaras");
+// Console.WriteLine(texto);
+// Console.WriteLine(texto.ToUpper());
+// Console.WriteLine(texto.ToLower());
