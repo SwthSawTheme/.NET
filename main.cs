@@ -1,36 +1,41 @@
-// Executar seu primeiro programa!
-//Console.WriteLine("Hello World");
+// // Executar seu primeiro programa!
+// //Console.WriteLine("Hello World");
 
-//Declarar e usar variáveis
+// //Declarar e usar variáveis
 
-string Friend = "Clary";
-//Console.WriteLine(Friend);
-Console.WriteLine("Hello " + Friend);
-// ---------- // ------------
+// string Friend = "Clary";
+// //Console.WriteLine(Friend);
+// Console.WriteLine("Hello " + Friend);
+// // ---------- // ------------
 
-Friend = "Saw";
-//Console.Write(Friend);
+// Friend = "Saw";
+// //Console.Write(Friend);
 
-Console.WriteLine("Hello " + Friend);
+// Console.WriteLine("Hello " + Friend);
 
-// ---------- // ------------
+// // ---------- // ------------
 
-Friend = "Sophie";
-Console.WriteLine($"Hello {Friend}");
+// Friend = "Sophie";
+// Console.WriteLine($"Hello {Friend}");
 
-// ---------- // ------------
+// // ---------- // ------------
 
-// Trabalhar com cadeias de caracteres
+// // Trabalhar com cadeias de caracteres
 
-string firstFriend = "Minnv";
-string secondFriend = "Octers";
-Console.WriteLine($"Meu amigo {firstFriend} e {secondFriend}");
+// string firstFriend = "Minnv";
+// string secondFriend = "Octers";
+// Console.WriteLine($"Meu amigo {firstFriend} e {secondFriend}");
 
-// Parametro Length
+// // Parametro Length
 
-Console.WriteLine($"O nome {firstFriend} contém {firstFriend.Length} letras");
-Console.WriteLine($"O nome {secondFriend} contém {secondFriend.Length} letras");
+// Console.WriteLine($"O nome {firstFriend} contém {firstFriend.Length} letras");
+// Console.WriteLine($"O nome {secondFriend} contém {secondFriend.Length} letras");
 
-// Testes demasiados
+// // Testes demasiados
 
-Console.WriteLine(Friend.ToLower());
+// Console.WriteLine(Friend.ToLower());
+
+// 14/10/2024 testes com a linguagem
+
+string nome = "Maria";
+Console.WriteLine($"Olá {nome}");
