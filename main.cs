@@ -71,3 +71,10 @@
 // int b = 45;
 // int c = a + b;
 // Console.WriteLine(c);
+
+// Explorar a ordem das operações
+
+// int a = 20;
+// int b = 10;
+// int c = 2 + (a*2) / (b*2);
+// Console.WriteLine(c);
