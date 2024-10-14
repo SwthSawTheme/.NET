@@ -58,3 +58,9 @@
 // Console.WriteLine(texto);
 // Console.WriteLine(texto.ToUpper());
 // Console.WriteLine(texto.ToLower());
+
+string letrasMusica = "Teste de caracteres e sons";
+Console.WriteLine(letrasMusica.Contains("Teste"));
+Console.WriteLine(letrasMusica.Contains("teste"));
+Console.WriteLine(letrasMusica.StartsWith("Teste"));
+Console.WriteLine(letrasMusica.EndsWith("sons"));
