@@ -117,6 +117,16 @@
 // decimal d = 3.0M;
 // Console.WriteLine(c / d);
 
-double radius = 2.50;
-double area = Math.PI * radius * radius;
-Console.WriteLine(area);
+// double radius = 2.50;
+// double area = Math.PI * radius * radius;
+// Console.WriteLine(area);
+
+// Saiba mais sobre lógica condicional com instruções branch e loop
+
+int a = 5;
+int b = 3;
+
+if (a+b > 10)
+    Console.WriteLine("A soma das variaveis resulta em um número maior que 10");
+
+    
