@@ -123,10 +123,18 @@
 
 // Saiba mais sobre lógica condicional com instruções branch e loop
 
-int a = 5;
-int b = 3;
+// int a = 5;
+// int b = 3;
+
+// if (a+b > 10)
+//     Console.WriteLine("A soma das variaveis resulta em um número maior que 10");
+
+//  Faça if e else funcionam juntas
+
+int a = 3;
+int b= 8;
 
 if (a+b > 10)
-    Console.WriteLine("A soma das variaveis resulta em um número maior que 10");
-
-    
+    Console.WriteLine("O valor é maior que 10");
+else
+    Console.WriteLine("O valor é menor que 10");
