@@ -12,13 +12,24 @@
 // }
 
 
-int num = 5;
-int num1 = 5;
+// int num = 5;
+// int num1 = 5;
 
-if (num + num1 == 10 && num1 < 2)
+// if (num + num1 == 10 && num1 < 2)
+// {
+//     Console.WriteLine("Condição satisfeita");
+// } else
+// {
+//     Console.WriteLine("Condição insatisfeita");
+// }
+
+float paralelo = 10.4f;
+float paralelo2 = 8.5f;
+
+if (paralelo > 5 * 2 && paralelo2 > 15.5 / 2 )
 {
-    Console.WriteLine("Condição satisfeita");
+    Console.WriteLine("Condição atendida!");
 } else
 {
-    Console.WriteLine("Condição insatisfeita");
+    Console.WriteLine("Condição não atendida!");
 }
