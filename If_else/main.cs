@@ -23,13 +23,23 @@
 //     Console.WriteLine("Condição insatisfeita");
 // }
 
+using System.ComponentModel;
+
 float paralelo = 10.4f;
 float paralelo2 = 8.5f;
 
-if (paralelo > 5 * 2 && paralelo2 > 15.5 / 2 )
+// if (paralelo > 5 * 2 && paralelo2 > 15.5 / 2 )
+// {
+//     Console.WriteLine("Condição atendida!");
+// } else
+// {
+//     Console.WriteLine("Condição não atendida!");
+// }
+
+if (paralelo == paralelo2 || paralelo > paralelo2)
 {
-    Console.WriteLine("Condição atendida!");
+    Console.WriteLine("Condição satisfeita");
 } else
 {
-    Console.WriteLine("Condição não atendida!");
+    Console.WriteLine("Condição insatisfeita");
 }
