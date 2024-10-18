@@ -1,0 +1,15 @@
+D:\GitHub\.NET\If_else\obj\Debug\net8.0\BranchesAndLoops.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\.NET\If_else\obj\Debug\net8.0\BranchesAndLoops.AssemblyInfoInputs.cache
+D:\GitHub\.NET\If_else\obj\Debug\net8.0\BranchesAndLoops.AssemblyInfo.cs
+D:\GitHub\.NET\If_else\obj\Debug\net8.0\BranchesAndLoops.csproj.CoreCompileInputs.cache
+D:\GitHub\.NET\If_else\obj\Debug\net8.0\BranchesAndLoops.sourcelink.json
+D:\GitHub\.NET\If_else\bin\Debug\net8.0\BranchesAndLoops.exe
+D:\GitHub\.NET\If_else\bin\Debug\net8.0\BranchesAndLoops.deps.json
+D:\GitHub\.NET\If_else\bin\Debug\net8.0\BranchesAndLoops.runtimeconfig.json
+D:\GitHub\.NET\If_else\bin\Debug\net8.0\BranchesAndLoops.dll
+D:\GitHub\.NET\If_else\bin\Debug\net8.0\BranchesAndLoops.pdb
+D:\GitHub\.NET\If_else\obj\Debug\net8.0\BranchesAndLoops.dll
+D:\GitHub\.NET\If_else\obj\Debug\net8.0\refint\BranchesAndLoops.dll
+D:\GitHub\.NET\If_else\obj\Debug\net8.0\BranchesAndLoops.pdb
+D:\GitHub\.NET\If_else\obj\Debug\net8.0\BranchesAndLoops.genruntimeconfig.cache
+D:\GitHub\.NET\If_else\obj\Debug\net8.0\ref\BranchesAndLoops.dll
