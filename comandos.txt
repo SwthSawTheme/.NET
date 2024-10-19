@@ -1,0 +1,2 @@
+------definir repositório atual------
+dotnet new console -n BranchesAndLoops -o .
