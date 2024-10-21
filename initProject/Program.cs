@@ -152,9 +152,6 @@
 //     Console.WriteLine("The answer is not greater than 10");
 //     Console.WriteLine("Or the first number is not equal to the second");
 // }
-
-using System;
-
 int counter = 0;
 
 while (counter < 10);
