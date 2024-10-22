@@ -10,10 +10,27 @@
 
 // Do while
 
-int counter = 0; 
-do
+// int counter = 0; 
+// do
+// {
+//     Console.WriteLine($"Teste {counter}");
+//     counter++;
+//     Thread.Sleep(500);
+// } while (counter < 20);
+
+// LOOP FOR
+
+// for (int counter = 0; counter < 102; counter += 2)
+// {
+//     Console.WriteLine($"Contando até {counter} de 2 em 2");
+// }
+
+// for each
+
+for (int row = 1; row < 11; row++)
 {
-    Console.WriteLine($"Teste {counter}");
-    counter++;
-    Thread.Sleep(500);
-} while (counter < 20);
+    for (char column = 'a'; column < 'k'; column++)
+    {
+        Console.WriteLine($"A matriz é ({row}, {column})");
+    }
+}
