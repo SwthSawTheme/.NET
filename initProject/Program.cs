@@ -36,12 +36,12 @@
 // }
 
 // Combinar Branches e loops
-int soma = 0;
-for (int counter = 0; counter < 21; counter++)
-{   
-    if (counter % 3 == 0)
-    {
-        soma += counter;
-    }
-}
-Console.WriteLine($"A soma total é {soma}");
+// int soma = 0;
+// for (int counter = 0; counter < 21; counter++)
+// {   
+//     if (counter % 3 == 0)
+//     {
+//         soma += counter;
+//     }
+// }
+// Console.WriteLine($"A soma total é {soma}");

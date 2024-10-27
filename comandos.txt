@@ -1,3 +1,3 @@
 ------definir repositório atual------
-dotnet new console -n BranchesAndLoops -o .
+dotnet new console -n [nome do projeto]
 dotnet run --project [nome do projeto.csproj] 
