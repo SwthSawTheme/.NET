@@ -1,0 +1,15 @@
+D:\GitHub\.NET\numeros\bin\Debug\net8.0\NumbersInCSharp.exe
+D:\GitHub\.NET\numeros\bin\Debug\net8.0\NumbersInCSharp.deps.json
+D:\GitHub\.NET\numeros\bin\Debug\net8.0\NumbersInCSharp.runtimeconfig.json
+D:\GitHub\.NET\numeros\bin\Debug\net8.0\NumbersInCSharp.dll
+D:\GitHub\.NET\numeros\bin\Debug\net8.0\NumbersInCSharp.pdb
+D:\GitHub\.NET\numeros\obj\Debug\net8.0\NumbersInCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\.NET\numeros\obj\Debug\net8.0\NumbersInCSharp.AssemblyInfoInputs.cache
+D:\GitHub\.NET\numeros\obj\Debug\net8.0\NumbersInCSharp.AssemblyInfo.cs
+D:\GitHub\.NET\numeros\obj\Debug\net8.0\NumbersInCSharp.csproj.CoreCompileInputs.cache
+D:\GitHub\.NET\numeros\obj\Debug\net8.0\NumbersInCSharp.sourcelink.json
+D:\GitHub\.NET\numeros\obj\Debug\net8.0\NumbersInCSharp.dll
+D:\GitHub\.NET\numeros\obj\Debug\net8.0\refint\NumbersInCSharp.dll
+D:\GitHub\.NET\numeros\obj\Debug\net8.0\NumbersInCSharp.pdb
+D:\GitHub\.NET\numeros\obj\Debug\net8.0\NumbersInCSharp.genruntimeconfig.cache
+D:\GitHub\.NET\numeros\obj\Debug\net8.0\ref\NumbersInCSharp.dll
