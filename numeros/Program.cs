@@ -24,9 +24,21 @@ OrderDePrecedencia();
 
 void OrderDePrecedencia()
 {
-    int a = 2;
-    int b = 2;
-    int c = a + (a*b);
+    int a = 5;
+    int b = 4;
+    int c = 2;
+    int d = a + b * c;
+    Console.WriteLine(d);
 
-    Console.WriteLine(c);
+    d = (a + b) * c;
+    Console.WriteLine(d);
+
+    d = (a + b) - 6 * c + (12 * 4) / 3 + 12;
+    Console.WriteLine(d);
+
+    int e = 7;
+    int f = 4;
+    int g = 3;
+    int h = (e + f) / g;
+    Console.WriteLine(h);   
 }
