@@ -1,0 +1,15 @@
+D:\GitHub\.NET\while\bin\Debug\net8.0\while.exe
+D:\GitHub\.NET\while\bin\Debug\net8.0\while.deps.json
+D:\GitHub\.NET\while\bin\Debug\net8.0\while.runtimeconfig.json
+D:\GitHub\.NET\while\bin\Debug\net8.0\while.dll
+D:\GitHub\.NET\while\bin\Debug\net8.0\while.pdb
+D:\GitHub\.NET\while\obj\Debug\net8.0\while.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\.NET\while\obj\Debug\net8.0\while.AssemblyInfoInputs.cache
+D:\GitHub\.NET\while\obj\Debug\net8.0\while.AssemblyInfo.cs
+D:\GitHub\.NET\while\obj\Debug\net8.0\while.csproj.CoreCompileInputs.cache
+D:\GitHub\.NET\while\obj\Debug\net8.0\while.sourcelink.json
+D:\GitHub\.NET\while\obj\Debug\net8.0\while.dll
+D:\GitHub\.NET\while\obj\Debug\net8.0\refint\while.dll
+D:\GitHub\.NET\while\obj\Debug\net8.0\while.pdb
+D:\GitHub\.NET\while\obj\Debug\net8.0\while.genruntimeconfig.cache
+D:\GitHub\.NET\while\obj\Debug\net8.0\ref\while.dll
