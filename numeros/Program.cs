@@ -1,6 +1,5 @@
 ﻿//meuprimeiroMetodo();
-orderPrecedencia();
-
+OrderDePrecedencia();
 // void meuprimeiroMetodo()
 // {
 //     int a = 18;
@@ -23,10 +22,11 @@ orderPrecedencia();
 //     Console.WriteLine(c);
 // }
 
-void orderPrecedencia();
+void OrderDePrecedencia()
 {
-    int a = 10;
-    int b = 10;
-    int c = a+b * a;
+    int a = 2;
+    int b = 2;
+    int c = a + (a*b);
+
     Console.WriteLine(c);
 }
