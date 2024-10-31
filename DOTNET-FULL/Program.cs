@@ -1,11 +1,6 @@
 ﻿// C# Curso Completo para iniciantes
+var test = "uso de variavel do tipo var ";
 
-Console.WriteLine("Olá, mundo!");
-Console.ReadKey();
+var test2 = "uso 2";
 
-string mystring = "texto";
-int myzero = 0;
-DateTime mydate = DateTime.Now;
-bool mybool = false;
-
-Console.WriteLine(mybool);
+Console.WriteLine(test + test2);
