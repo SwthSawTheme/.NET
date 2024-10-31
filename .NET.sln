@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "branchesLoops", "branchesLoops\branchesLoops.csproj", "{AF14A2EE-16D3-4751-8264-5DCD65F6E1CA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumbersInCSharp", "numeros\NumbersInCSharp.csproj", "{E35C43F1-FE1A-4D52-BC54-3A828C83BF1E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "while", "while\while.csproj", "{3A233878-272E-4D9A-82D2-4210BE7DBB2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF14A2EE-16D3-4751-8264-5DCD65F6E1CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF14A2EE-16D3-4751-8264-5DCD65F6E1CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF14A2EE-16D3-4751-8264-5DCD65F6E1CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF14A2EE-16D3-4751-8264-5DCD65F6E1CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E35C43F1-FE1A-4D52-BC54-3A828C83BF1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E35C43F1-FE1A-4D52-BC54-3A828C83BF1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E35C43F1-FE1A-4D52-BC54-3A828C83BF1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E35C43F1-FE1A-4D52-BC54-3A828C83BF1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A233878-272E-4D9A-82D2-4210BE7DBB2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A233878-272E-4D9A-82D2-4210BE7DBB2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A233878-272E-4D9A-82D2-4210BE7DBB2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A233878-272E-4D9A-82D2-4210BE7DBB2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27517F01-A605-4EA5-BADE-989167BB8B23}
+	EndGlobalSection
+EndGlobal

@@ -7,10 +7,10 @@
 //     counter++;
 // }
 
-int counter = 0;
+// int counter = 0;
 
-do 
-{   
-    Console.WriteLine("Contando " + counter);
-    counter++;
-} while (counter < 100);
+// do 
+// {   
+//     Console.WriteLine("Contando " + counter);
+//     counter++;
+// } while (counter < 100);
