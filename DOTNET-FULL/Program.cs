@@ -1,6 +1,12 @@
 ﻿// C# Curso Completo para iniciantes
-var test = "uso de variavel do tipo var ";
+using DOTNET_FULL;
 
-var test2 = "uso 2";
+var valor1 = int.Parse(Console.ReadLine());
+var valor2 = int.Parse(Console.ReadLine());
+var operador = Console.ReadLine();
 
-Console.WriteLine(test + test2);
+Calculator calculadora = new Calculator();
+
+Console.WriteLine(calculadora.Calculate(operador, valor1, valor2));
+
+Console.ReadLine();
